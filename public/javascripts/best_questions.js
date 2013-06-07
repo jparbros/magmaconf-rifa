@@ -1,0 +1,1 @@
+window.bestQuestions = ["Federico Soria","Jesus Haro","Manuel Morato","Macario Ortega","Erika Mejia","Viviana (crowd)","Rafael Colton","Jorge Garcia V.","Eduardo Figarola","Manuel VIdaurre"];
